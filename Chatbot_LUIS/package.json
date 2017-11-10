@@ -1,0 +1,17 @@
+{
+  "name": "chatbot_luis",
+  "version": "0.0.0",
+  "description": "Chatbot_LUIS",
+  "main": "app.js",
+  "author": {
+    "name": "ChungWei"
+  },
+  "devDependencies": {
+    "@types/node": "^6.0.87"
+  },
+  "dependencies": {
+    "@types/restify": "^5.0.6",
+    "botbuilder": "^3.11.0",
+    "restify": "^6.3.2"
+  }
+}
